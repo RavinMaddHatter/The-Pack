@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "The Pack",
+    "description": "The Pack. It does all The Things that The Person requested. It is The Best at being The Pack. The Pack is making The Minecraft The most similarly precise as The question you asked.",
+    "uuid": "a4601534-1850-4f7a-9c81-46e75953df1e",
+    "version": [
+      0,
+      0,
+      1
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "b1ecd9a7-7eac-4dd3-8352-aaef165f3fa7",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
